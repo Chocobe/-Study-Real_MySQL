@@ -6,7 +6,11 @@
 
 1.	Client접속
 
-1.	쿼리 입력
+1.	DataBase 덤프 쿼리 입력
+
+	*	TestDatabase-Employee/load_salaries.zip 압축 해제
+
+	*	압축해제한 파일들을 상위 폴더(TestDatabase-Employee)에 붙여넣기
 
 	*	mysql>source employees.sql
 
