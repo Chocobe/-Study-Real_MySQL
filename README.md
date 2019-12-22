@@ -18,4 +18,4 @@
 
 ---
 
-*	[09. 사용자 정의 변수](http://github.com/Chocobe/-study-Real_MySQL/RealMySQL/09 사용자 정의 변수)
+*	[09. 사용자 정의 변수](http://https://github.com/Chocobe/-study-Real_MySQL/blob/master/Real%20MySQL/09%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%20%EB%B3%80%EC%88%98/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%20%EB%B3%80%EC%88%98%20%EC%86%8C%EA%B0%9C.sql)
